@@ -1,1 +1,2 @@
-# DriverManagerSystem
+JAVA课设
+基于hibernate实现的驾校管理系统
